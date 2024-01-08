@@ -11,25 +11,4 @@ git commit -m "commit message"
 git push
 ```
 
-The basic git commands o update this repo are:
-```
-git add . 
-git commit -m "commit message"
-git push
-```
-
-The basic git commands o update this repo are:
-```
-git add . 
-git commit -m "commit message"
-git push
-```
-
-The basic git commands o update this repo are:
-```
-git add . 
-git commit -m "commit message"
-git push
-```
-
-
+![heart](valentine.jpg)
